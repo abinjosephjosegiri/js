@@ -20,4 +20,6 @@ let b =30 ;
 let sum =a+b;
 console.log("Sum of " + a + " and " + b + " is " + sum);
 // or
+console.log("Sum of",a,"and",b,"is",sum);
+///or
 console.log(`sum of ${a} and ${b} is ${sum}`);
