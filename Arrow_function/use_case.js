@@ -45,6 +45,5 @@ Not Using Arrows function
 INPUT   :   Array with number
 Out     :   Array with only odd Fumbers
 */
-
 const Arrows =  number.filter((number) =>number.value%2 === 0)
 console.log(Arrows)
