@@ -29,3 +29,13 @@ Hello("Abin");//this is also valid
 
 // hear we are using Hello as an verable function thiar the global condext not available
 // but sayHello is a function ther for the globel condext is avaliabale
+
+
+
+// to verify that
+
+
+console.log("Befor Definition :" + variable);
+var variable = "Test condext"; //if u use let hear you get Aa error 
+// we will seee this in detail in let and var conparison
+console.log("After Definition :" + variable);
